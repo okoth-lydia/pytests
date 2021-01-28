@@ -26,3 +26,5 @@ Key Take-Aways:
 - Assert statement simply checks the function and raised an assert error if the condition specified after the assert is false
 
 - Finally, run the test
+
+For more info, visit https://github.com/AndyLPK247/tau-intro-to-pytest on github; and https://testautomationu.applitools.com/pytest-tutorial/chapter1.html
