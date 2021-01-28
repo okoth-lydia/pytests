@@ -1,0 +1,3 @@
+# exceptions not handled in a testcase will cause that test
+# case to report a failure
+so exceptions must be handled.
